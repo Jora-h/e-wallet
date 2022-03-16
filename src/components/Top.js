@@ -7,7 +7,3 @@ export default function Top(props){
         </section>
     )
 }
-
-// title, cardState
-// {title}
-// {cardState}
